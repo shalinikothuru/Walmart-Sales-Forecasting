@@ -2,13 +2,6 @@ Data mining project
 
 Project title : Walmart sales forecasting
 
-Team members :
-Shalini Kothuru - skothuru@iu.edu
-Shivani Chennoju - schennoj@iu.edu
-NagaJahnavi Dhulipalla - ndhulipa@iu.edu
-Venkata Sai Abhigna Devarasetty - vdevaras@iu.edu
-
-
 Install:
 This project requires installation of software that allows one to execute of Jupyter notebook, python and following python libraries:
 Numpy,
